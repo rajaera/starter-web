@@ -1,2 +1,0 @@
-more ipsum text on more file in deep dir
-add another line of text into the 4th dir file
