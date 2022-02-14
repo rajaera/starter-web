@@ -1,7 +1,9 @@
-#starter web projects
+# starter web projects
 
 ## introduction
 
-##Purpose
+## Purpose
+
+## Deployment
 
 ## How to contribute
