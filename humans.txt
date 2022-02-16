@@ -7,7 +7,7 @@
 
 # THANKS
 
-    <name>
+    this will be going to make a conflict
 
 # TECHNOLOGY COLOPHON
 
