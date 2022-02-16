@@ -7,7 +7,7 @@
 
 # THANKS
 
-    <name>
+    here my name will make a conflict with other branch
 
 # TECHNOLOGY COLOPHON
 
